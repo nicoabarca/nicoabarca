@@ -37,4 +37,4 @@ Also played with [Solidity](https://docs.soliditylang.org/en/v0.8.13/), [Vue](ht
  - Shell and terminal customization
 
 
-Feel free to reach me on [Telegram]("https://t.me/nabarca20") if you are looking to collaborate on something
+Feel free to reach me on [Telegram](https://t.me/nabarca20) if you are looking to collaborate on something
