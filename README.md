@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=484848&lines=Hi!+I'm+Nicol%C3%A1s)](https://git.io/typing-svg)
+
 <!--
 **nicoabarca/nicoabarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
