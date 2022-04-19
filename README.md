@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=484848&lines=Hi!+I'm+Nicol%C3%A1s+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a engineering student from Chile 🇨🇱 studying at [PUC](https://www.uc.cl/en)
+I'm a engineering student from Chile. 🇨🇱 
+
+Studying at [PUC](https://www.uc.cl/en).
 
 
 ### 🧑‍💻 Programming Languages
@@ -28,9 +30,9 @@ I'm a engineering student from Chile 🇨🇱 studying at [PUC](https://www.uc.c
 
 <!--![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 
-Also played with [Solidity](https://docs.soliditylang.org/en/v0.8.13/), [Vue](https://vuejs.org/) and [FastAPI](https://fastapi.tiangolo.com/)
+Also played with [Solidity](https://docs.soliditylang.org/en/v0.8.13/), [Vue](https://vuejs.org/) and [FastAPI](https://fastapi.tiangolo.com/).
 
-### Interested on
+### 🤔 Interested on
 
 ---
 
@@ -38,4 +40,4 @@ Also played with [Solidity](https://docs.soliditylang.org/en/v0.8.13/), [Vue](ht
  - Shell and terminal customization
 
 
-Feel free to reach me on [Telegram](https://t.me/nabarca20) if you are looking to collaborate on something
+Feel free to reach me on [Telegram](https://t.me/nabarca20) if you are looking to collaborate on something.
