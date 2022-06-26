@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=484848&lines=Hi!+I'm+Nicol%C3%A1s+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a software engineer student at [PUC](https://www.uc.cl/en). 
+I'm a software engineering student at [PUC](https://www.uc.cl/en). 
 
 ### 🧑‍💻 Programming Languages
 
